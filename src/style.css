@@ -89,6 +89,12 @@
   height: 220px;
   overflow: hidden;
 }
+
+.theme-color {
+  color: #03c;
+}
+
+
 }
 }
 @tailwind utilities;

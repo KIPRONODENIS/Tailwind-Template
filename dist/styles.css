@@ -705,6 +705,10 @@ video {
   overflow: hidden;
 }
 
+.theme-color {
+  color: #03c;
+}
+
 .hover\:avatar-30:hover {
   width: 30px;
   height: 30px;
@@ -791,6 +795,10 @@ video {
   overflow: hidden;
 }
 
+.hover\:theme-color:hover {
+  color: #03c;
+}
+
 .focus\:avatar-30:focus {
   width: 30px;
   height: 30px;
@@ -875,6 +883,10 @@ video {
   width: 220px;
   height: 220px;
   overflow: hidden;
+}
+
+.focus\:theme-color:focus {
+  color: #03c;
 }
 
 .space-y-0 > :not(template) ~ :not(template) {
@@ -18547,6 +18559,10 @@ video {
     overflow: hidden;
   }
 
+  .sm\:theme-color {
+    color: #03c;
+  }
+
   .sm\:hover\:avatar-30:hover {
     width: 30px;
     height: 30px;
@@ -18633,6 +18649,10 @@ video {
     overflow: hidden;
   }
 
+  .sm\:hover\:theme-color:hover {
+    color: #03c;
+  }
+
   .sm\:focus\:avatar-30:focus {
     width: 30px;
     height: 30px;
@@ -18717,6 +18737,10 @@ video {
     width: 220px;
     height: 220px;
     overflow: hidden;
+  }
+
+  .sm\:focus\:theme-color:focus {
+    color: #03c;
   }
 
   .sm\:space-y-0 > :not(template) ~ :not(template) {
@@ -36390,6 +36414,10 @@ video {
     overflow: hidden;
   }
 
+  .md\:theme-color {
+    color: #03c;
+  }
+
   .md\:hover\:avatar-30:hover {
     width: 30px;
     height: 30px;
@@ -36476,6 +36504,10 @@ video {
     overflow: hidden;
   }
 
+  .md\:hover\:theme-color:hover {
+    color: #03c;
+  }
+
   .md\:focus\:avatar-30:focus {
     width: 30px;
     height: 30px;
@@ -36560,6 +36592,10 @@ video {
     width: 220px;
     height: 220px;
     overflow: hidden;
+  }
+
+  .md\:focus\:theme-color:focus {
+    color: #03c;
   }
 
   .md\:space-y-0 > :not(template) ~ :not(template) {
@@ -54233,6 +54269,10 @@ video {
     overflow: hidden;
   }
 
+  .lg\:theme-color {
+    color: #03c;
+  }
+
   .lg\:hover\:avatar-30:hover {
     width: 30px;
     height: 30px;
@@ -54319,6 +54359,10 @@ video {
     overflow: hidden;
   }
 
+  .lg\:hover\:theme-color:hover {
+    color: #03c;
+  }
+
   .lg\:focus\:avatar-30:focus {
     width: 30px;
     height: 30px;
@@ -54403,6 +54447,10 @@ video {
     width: 220px;
     height: 220px;
     overflow: hidden;
+  }
+
+  .lg\:focus\:theme-color:focus {
+    color: #03c;
   }
 
   .lg\:space-y-0 > :not(template) ~ :not(template) {
@@ -72076,6 +72124,10 @@ video {
     overflow: hidden;
   }
 
+  .xl\:theme-color {
+    color: #03c;
+  }
+
   .xl\:hover\:avatar-30:hover {
     width: 30px;
     height: 30px;
@@ -72162,6 +72214,10 @@ video {
     overflow: hidden;
   }
 
+  .xl\:hover\:theme-color:hover {
+    color: #03c;
+  }
+
   .xl\:focus\:avatar-30:focus {
     width: 30px;
     height: 30px;
@@ -72246,6 +72302,10 @@ video {
     width: 220px;
     height: 220px;
     overflow: hidden;
+  }
+
+  .xl\:focus\:theme-color:focus {
+    color: #03c;
   }
 
   .xl\:space-y-0 > :not(template) ~ :not(template) {
